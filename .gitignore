@@ -1,0 +1,8 @@
+#ignore these files
+
+.vscode/
+
+*.csv
+
+__pycache__/
+*.pyc
